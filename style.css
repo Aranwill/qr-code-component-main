@@ -1,5 +1,5 @@
 
-body{
+body {
   align-items: center;
   background-color:hsl(212, 45%, 89%) ;
   display: flex;
@@ -14,7 +14,7 @@ body{
   border-radius: 1rem;
 }
 
-img{
+img {
   border-radius: 16px;
   margin-top: 16px;
   margin-left: 16px;
@@ -23,13 +23,14 @@ img{
   height: 300px;
 }
 
-h1{
+h1 {
   font-size: 24px;
   font-weight: 700;
   text-align: center;
   margin: 16px;
 }
-p{
+
+p {
   font-size: 16px;
   font-weight: 400;
   text-align: center;
@@ -46,7 +47,7 @@ p{
   color: hsl(228, 45%, 44%);
  }
 
- @media  (max-width: 375px) {
+@media (max-width: 375px) {
   body{
     align-items: center;
     background-color:hsl(218, 44%, 22%) ;
