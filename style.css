@@ -5,8 +5,9 @@ body {
   display: flex;
   font-family: "Oufit", sans-serif;
   flex-direction: column;
-  justify-content: center;
   height: 100vh;
+  justify-content: center;
+  
 }
 
 .card {
@@ -15,28 +16,30 @@ body {
 }
 
 img {
-  border-radius: 16px;
-  margin-top: 16px;
-  margin-left: 16px;
-  margin-right: 16px;
-  width: 300px;
-  height: 300px;
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 250px;
+  height: 250px;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   text-align: center;
-  margin: 16px;
+  margin: 10px;
 }
 
 p {
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 400;
   text-align: center;
-  padding-bottom: 16px;
+  padding-bottom: 20px;
   margin: 0;
 }
+
+
 
 .attribution { 
   font-size: 11px; 
